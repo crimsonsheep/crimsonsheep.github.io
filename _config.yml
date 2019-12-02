@@ -110,7 +110,7 @@ author:
   name             : "DJ Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ESP system developer"
-  location         : "Gwangnaru-ro, Gwangjin-gu, Seoul, Rep. of KOREA"
+  location         : "Gwangnaru-ro, Gwangjin-gu,<br/> Seoul, Rep. of KOREA"
   email            :
   links:
     - label: "Email"
