@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://redrabit.github.io/"><b>Dong Jin Lee</b></center>
+<center><b>Dong Jin Lee</b></center>
 
 ## Education
 | Year | Major | Degree | Name of Institution | Place |
