@@ -6,19 +6,14 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://redrabit.github.io/"><b>Dong Jin Lee</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Education
+| Year | Major | Degree | Name of Institution | Place |
+|:------|:-------------:|----------:|--------------------:|----------------------------------------:|
+| 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea.
+| 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea.
+{: rules="groups"}
 
 ## Preview
 
