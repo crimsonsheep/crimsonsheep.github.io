@@ -11,8 +11,8 @@ comments: false
 ## Education
 | Year | Major | Degree | Name of Institution | Place |
 |:------|:-------------:|----------:|--------------------:|----------------------------------------:|
-| 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea.
-| 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea.
+| 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
+| 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 |=====
 {: rules="groups"}
 
