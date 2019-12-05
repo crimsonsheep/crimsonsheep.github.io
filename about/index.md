@@ -9,6 +9,7 @@ comments: false
 <center><b>Dong Jin Lee</b></center>
 
 ## Education
+
 | Year | Major | Degree | Name of Institution | Place |
 |:------|:-------------:|----------:|--------------------:|----------------------------------------:|
 | 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
