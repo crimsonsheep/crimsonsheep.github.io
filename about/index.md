@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Profile
+tags: [about, profile]
+date: 2019-12-07
 comments: false
 ---
-    
-<center><b>Dong Jin Lee</b></center>
 
 ## Education
 
@@ -14,6 +12,23 @@ comments: false
 |:------|:-------------:|:----------:|:--------------------:|----------------------------------------:|
 | 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 | 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
+
+
+## Work Experience
+
+|:------------|-----------------------------------------------------------------------------------:|
+| Period | 2019.08 ~ now |
+| Position | Assistant manager |
+| Department | R & D |
+| Name of Company | ESP (Energy Solution Provider) |
+| Location | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
+| Responsibility: |
+| In charge of the ePDAS system. |
+| Accomplishments: |
+| Develop Modbus, IEC61850 Communication module in the system. |
+| Database optimizing. |
+| Set up the ePDAS system on the Dangjin thermal plant. |
+
 
 ## Preview
 
