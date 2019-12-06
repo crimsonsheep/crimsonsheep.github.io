@@ -14,10 +14,11 @@ comments: false
 | 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 
 
+
 ## Work Experience
 
 | d | e |
-|:------------|-----------------------------------------------------------------------------------:|
+|:--------|-----------------------------------------------------------------------------------:|
 | Period | 2019.08 ~ now |
 | Position | Assistant manager |
 | Department | R & D |
