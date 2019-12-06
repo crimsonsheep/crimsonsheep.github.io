@@ -16,13 +16,19 @@ comments: false
 
 ## Work Experience
 
+| d | e |
 |:------------|-----------------------------------------------------------------------------------:|
 | Period | 2019.08 ~ now |
 | Position | Assistant manager |
 | Department | R & D |
 | Name of Company | ESP (Energy Solution Provider) |
 | Location | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
-
+| Responsibility: |
+| In charge of the ePDAS system. |
+| Accomplishments: |
+| Develop Modbus, IEC61850 Communication module in the system. |
+| Database optimizing. |
+| Set up the ePDAS system on the Dangjin thermal plant. |
 
 
 ## Preview
