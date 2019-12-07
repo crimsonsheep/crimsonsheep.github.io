@@ -13,12 +13,13 @@ comments: false
 | 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 |----
 | 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
-|=====
+|====
 {: rules="groups"}
 
 
 ## Work Experience
 
+|  |                                                  |
 |:--------|-----------------------------------------------------------------------------------:|
 | <b> Period </b>| 2019.08 ~ now |
 |----
@@ -29,7 +30,7 @@ comments: false
 | <b> Name of Company </b>| ESP (Energy Solution Provider) |
 |----
 | <b> Location </b>| 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
-|----
+|====
 |:------------------------------------------------------------------------------------------:|
 | <b> Responsibility: </b>|
 | In charge of the ePDAS system. |
@@ -38,7 +39,7 @@ comments: false
 | Develop Modbus, IEC61850 Communication module in the system. |
 | Database optimizing. |
 | Set up the ePDAS system on the Dangjin thermal plant. |
-|=====
+|====
 {: rules="groups"}
 
 ## Preview
