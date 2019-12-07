@@ -30,6 +30,7 @@ comments: false
 | **Name of Company** | ESP (Energy Solution Provider) |
 |----
 | **Location** | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
+|----
 | **Responsibility:** ||
 | In charge of the ePDAS system. ||
 |----
