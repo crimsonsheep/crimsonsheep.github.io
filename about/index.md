@@ -32,7 +32,7 @@ comments: false
 | <b> Location </b>| 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
 |====
 |                                                  |
-|------------------------------------------------------------------------------------------:|
+|:------------------------------------------------------------------------------------------|
 | <b> Responsibility: </b>|
 | In charge of the ePDAS system. |
 |----
