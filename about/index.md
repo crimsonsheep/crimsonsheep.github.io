@@ -18,13 +18,13 @@ comments: false
 
 ## Work Experience
 
-| d | e |
+|  |  |
 |:--------|-----------------------------------------------------------------------------------:|
-| Period | 2019.08 ~ now |
-| Position | Assistant manager |
-| Department | R & D |
-| Name of Company | ESP (Energy Solution Provider) |
-| Location | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
+| <b> Period </b>| 2019.08 ~ now |
+| <b> Position </b>| Assistant manager |
+| <b> Department </b>| R & D |
+| <b> Name of Company </b>| ESP (Energy Solution Provider) |
+| <b> Location </b>| 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
 |----
 | Responsibility: |
 | In charge of the ePDAS system. |
