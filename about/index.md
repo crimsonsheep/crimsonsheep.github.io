@@ -34,7 +34,6 @@ comments: false
 | **Responsibility:** | In charge of the ePDAS system. |
 |----
 | **Accomplishments:** | Developed Modbus, IEC61850 Communication module in the system.  |
-| 
 | | Database optimizing and tuning. |
 | |Set up the ePDAS system on the Dang-jin thermal plant. | 
 |====
