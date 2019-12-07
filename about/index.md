@@ -19,18 +19,29 @@ comments: false
 
 ## Work Experience
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
+|  |                                                  |
+|:--------|-----------------------------------------------------------------------------------:|
+| **Period** | 2019.08 ~ now |
+|----
+| **Position** | Assistant manager |
+|----
+| **Department** | R & D |
+|----
+| **Name of Company** | ESP (Energy Solution Provider) |
+|----
+| **Location** | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
+|----
+| <td colspan=2>**Responsibility:** ||
+| <td colspan=2>In charge of the ePDAS system. |
+|----
+| <td colspan=2>**Accomplishments:** ||
+| <td colspan=2>Developed Modbus, IEC61850 Communication module in the system. ||
+| <td colspan=2>Database optimizing and tuning. ||
+| <td colspan=2>Set up the ePDAS system on the Dang-jin thermal plant. ||
+|====
+{: rules="groups"}
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
-
-
-## Preview4
+## Preview5
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
