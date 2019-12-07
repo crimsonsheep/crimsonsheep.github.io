@@ -10,7 +10,7 @@ comments: false
 
 | Year | Major | Degree | Name of Institution | Place |
 |:------|:-------------:|:----------:|:--------------------:|----------------------------------------:|
-| 2017 | Computer Engineering | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
+| 2017 | Digital Contents | Bachor's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 |----
 | 2019 | Computer Engineering | Master's degree | Sejong University | Neungdong-ro, Gwangjin-gu, Seoul, Republic of Korea. |
 |====
@@ -31,18 +31,19 @@ comments: false
 |----
 | <b> Location </b>| 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
 |====
+|                                                  |
 |:------------------------------------------------------------------------------------------:|
 | <b> Responsibility: </b>|
 | In charge of the ePDAS system. |
 |----
 | <b> Accomplishments: </b>|
-| Develop Modbus, IEC61850 Communication module in the system. |
-| Database optimizing. |
+| Developed Modbus, IEC61850 Communication module in the system. |
+| Database optimizing and tuning. |
 | Set up the ePDAS system on the Dangjin thermal plant. |
 |====
 {: rules="groups"}
 
-## Preview2
+## Preview3
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
