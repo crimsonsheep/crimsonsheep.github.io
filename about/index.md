@@ -38,8 +38,7 @@ comments: false
 | <td colspan=2>Developed Modbus, IEC61850 Communication module in the system. 
 | <td colspan=2>Database optimizing and tuning. 
 | <td colspan=2>Set up the ePDAS system on the Dang-jin thermal plant. 
-|====
-{: rules="groups"}
+
 
 ## Preview5
 
