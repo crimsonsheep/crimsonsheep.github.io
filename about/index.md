@@ -34,7 +34,7 @@ comments: false
 |:------------------------------------------------------------------------------------------:|
 | <b> Responsibility: </b>|
 | In charge of the ePDAS system. |
-|----
+|----:|
 | <b> Accomplishments: </b>|
 | Develop Modbus, IEC61850 Communication module in the system. |
 | Database optimizing. |
