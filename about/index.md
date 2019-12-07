@@ -31,13 +31,12 @@ comments: false
 |----
 | **Location** | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
 |----
-| **Responsibility:** | |
-| In charge of the ePDAS system. | |
+| **Responsibility:** | In charge of the ePDAS system. |
 |----
-| <td colspan=2>**Accomplishments:** 
-| <td colspan=2>Developed Modbus, IEC61850 Communication module in the system. 
-| <td colspan=2>Database optimizing and tuning. 
-| <td colspan=2>Set up the ePDAS system on the Dang-jin thermal plant. 
+| **Accomplishments:** | Developed Modbus, IEC61850 Communication module in the system.  |
+| 
+| | Database optimizing and tuning. |
+| |Set up the ePDAS system on the Dang-jin thermal plant. | 
 |====
 {: rules="groups"}
 
