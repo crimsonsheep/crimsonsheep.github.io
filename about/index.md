@@ -40,6 +40,10 @@ comments: false
 | <td colspan=2>Set up the ePDAS system on the Dang-jin thermal plant. 
 |====
 
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
+    
 ## Preview6
 
 {% capture images %}
