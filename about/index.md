@@ -19,7 +19,6 @@ comments: false
 
 ## Work Experience
 
-|  |                                                  |
 |:--------|-----------------------------------------------------------------------------------:|
 | <b> Period </b>| 2019.08 ~ now |
 |----
@@ -34,7 +33,7 @@ comments: false
 |:------------------------------------------------------------------------------------------:|
 | <b> Responsibility: </b>|
 | In charge of the ePDAS system. |
-|----:|
+|----
 | <b> Accomplishments: </b>|
 | Develop Modbus, IEC61850 Communication module in the system. |
 | Database optimizing. |
