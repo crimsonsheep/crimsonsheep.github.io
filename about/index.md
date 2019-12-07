@@ -19,27 +19,26 @@ comments: false
 
 ## Work Experience
 
-|  |                                                  |
-|--------|-----------------------------------------------------------------------------------:|
-| **Period** </b>| 2019.08 ~ now |
+  |                                                  |
+--------|-----------------------------------------------------------------------------------:|
+ **Period** | 2019.08 ~ now |
 
-| **Position**| Assistant manager |
+ **Position**| Assistant manager |
 
-| **Department** | R & D |
+ **Department** | R & D |
 
-| **Name of Company** | ESP (Energy Solution Provider) |
+ **Name of Company** | ESP (Energy Solution Provider) |
 
-| **Location** | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
+ **Location** | 40, Simin-daero 365beon-gil, Dongan-gu, Anyang-si, Gyeonggi-do, Republic of Korea |
 
-| **Responsibility:** ||
-| In charge of the ePDAS system. ||
+ **Responsibility:** ||
+ In charge of the ePDAS system. ||
 
-| **Accomplishments:** ||
-| Developed Modbus, IEC61850 Communication module in the system. ||
-| Database optimizing and tuning. ||
-| Set up the ePDAS system on the Dang-jin thermal plant. ||
-|====
-{: rules="groups"}
+ **Accomplishments:** ||
+ Developed Modbus, IEC61850 Communication module in the system. ||
+ Database optimizing and tuning. ||
+ Set up the ePDAS system on the Dang-jin thermal plant. ||
+
 
 ## Preview4
 
