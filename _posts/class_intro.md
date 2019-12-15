@@ -3,6 +3,7 @@ layout: post
 title: "개설된 수업 소개"
 date: 2019-12-05
 excerpt: "A ton of text to test readability."
+class: true
 tags: [코딩, 프로그래밍, 수업]
 comments: true
 ---
