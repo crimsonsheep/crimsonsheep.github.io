@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
+title: "수업에 대한 소개"
+date: 2019-12-31
 excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+tags: [코딩, 프로그래밍, 수업]
 comments: true
 ---
 
