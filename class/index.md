@@ -1,5 +1,5 @@
 ---
-layout: class1
+layout: class
 title: All Class
 excerpt: "A List of Class"
 comments: false
